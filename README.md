@@ -1,15 +1,20 @@
-## Welcome
+# Hi, I'm Jerome Agoncillo
 
+I am a Computer Science student at the University of Illinois Chicago with an interest in software engineering, data structures, debugging, and systems programming. I enjoy building projects that help me better understand how programs work under the hood, especially with C, C++, memory management, and object-oriented design.
 
-## Projects
+## Technical Skills
 
-### HashMap Data Structure | C++
-Built a custom C++ HashMap to store and manage key-value pairs efficiently.
+**Languages:** C++, C, Python  
+**Tools:** Git, GitHub, GDB, Linux, Vim, VS Code  
+**Concepts:** Data Structures, Algorithms, Object-Oriented Programming, Memory Management, Debugging, Systems Programming
 
-- Implemented features to insert, search, remove, clear, copy, compare, and iterate through stored data.
-- Used dynamic memory management and linked nodes to handle resizing, collisions, deep copies, and safe deletion.
-- Wrote GoogleTest unit tests for duplicates, missing keys, collisions, resizing, copy behavior, and edge cases.
+## Project Table of Contents
 
-**Skills:** C++, Data Structures, Memory Management, Debugging, Unit Testing, GoogleTest
+| Project | Language | Description |
+|---|---|---|
+| [HashMap Data Structure](PASTE-HASHMAP-REPO-LINK-HERE) | C++ | Custom HashMap that stores key-value pairs using hashing, linked nodes, resizing, and collision handling. |
+| [Food Web Analysis](PASTE-FOOD-WEB-REPO-LINK-HERE) | C | Program that analyzes predator-prey relationships using dynamic memory and relationship traversal. |
 
-[View Project Repository](PASTE-YOUR-HASHMAP-REPO-LINK-HERE)
+## Currently Learning
+
+I am currently strengthening my skills in data structures, systems programming, debugging with GDB
