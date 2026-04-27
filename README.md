@@ -12,7 +12,7 @@ I am a Computer Science student at the University of Illinois Chicago with an in
 
 | Project | Language | Description |
 |---|---|---|
-| [HashMap Data Structure](PASTE-HASHMAP-REPO-LINK-HERE) | C++ | Custom HashMap that stores key-value pairs using hashing, linked nodes, resizing, and collision handling. |
+| [HashMap Data Structure]([PASTE-HASHMAP-REPO-LINK-HERE](https://github.com/jeromeagoncillo/Project-hashmap-Data-Structures-and-Algorithms)) | C++ | Custom HashMap that stores key-value pairs using hashing, linked nodes, resizing, and collision handling. |
 
 
 ## Currently Learning
