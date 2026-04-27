@@ -13,7 +13,7 @@ I am a Computer Science student at the University of Illinois Chicago with an in
 | Project | Language | Description |
 |---|---|---|
 | [HashMap Data Structure](PASTE-HASHMAP-REPO-LINK-HERE) | C++ | Custom HashMap that stores key-value pairs using hashing, linked nodes, resizing, and collision handling. |
-| [Food Web Analysis](PASTE-FOOD-WEB-REPO-LINK-HERE) | C | Program that analyzes predator-prey relationships using dynamic memory and relationship traversal. |
+
 
 ## Currently Learning
 
