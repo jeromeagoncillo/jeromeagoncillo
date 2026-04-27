@@ -1,4 +1,4 @@
-# Hi, I'm Jerome Agoncillo
+# HELLO! Jerome Here!
 
 I'm a Computer Science student at the University of Illinois Chicago. I’m interested in software engineering, data structures, debugging, and systems programming. A lot of my projects right now are focused on helping me understand how programs work behind the scenes, especially with C, C++, memory management, and object-oriented design.
 
